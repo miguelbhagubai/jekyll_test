@@ -2,7 +2,7 @@
 layout: home
 title: Biomed 
 description: Biomedical Data Processing Research Lab 
-background: /assets/theme/images/sinusoid.jpg
+background: /assets/theme/images/header.png
 permalink: /
 ---
 
