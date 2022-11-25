@@ -5,4 +5,7 @@ background: /assets/images/banner_background_image.jpg
 permalink: /submission/
 ---
 
-{% include submissions.html %}
+# Submissions Page
+
+form goes here
+<!-- {% include submissions.html %} -->
