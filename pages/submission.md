@@ -1,11 +1,9 @@
 ---
 title: Submission
-description: Submission
-background: /assets/images/banner_background_image.jpg
+description: Here you can register to the challenge
 permalink: /submission/
 ---
 
 # Submissions Page
 
 form goes here
-<!-- {% include submissions.html %} -->
